@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Building production-grade AI/ML and Agentic AI systems with Python, FastAPI, LangGraph, RAG, and multi-agent architectures.<br><br>👯 I’m looking to collaborate on<br>GenAI, Agentic AI, RAG, AI engineering, and ML projects that solve real-world problems and can be deployed end-to-end.<br><br>🤝 I’m looking for help with<br>Designing scalable AI systems, improving LLM/agent reliability, and taking AI projects from prototype to production.<br><br>🌱 I’m currently learning<br>Advanced Agentic AI, LangGraph orchestration, RAG optimization, MLOps, and scalable backend architecture.<br><br>💬 Ask me about<br>Python, Machine Learning, Generative AI, LangGraph, RAG, FastAPI, SHAP, XGBoost, and building AI systems end-to-end.<br><br>⚡ Fun fact<br>I enjoy turning AI ideas into working products — from ML prediction systems to autonomous multi-agent platforms.
+🔭 I’m currently working on<br>Building production-grade AI/ML and Agentic AI systems with Python, FastAPI, LangGraph, RAG, and multi-agent architectures.<br><b👯 I’m looking to collaborate on<br>GenAI, Agentic AI, RAG, AI engineering, and ML projects that solve real-world problems and can be deployed end-to-end.<br><
+🤝 I’m looking for help with<br>Designing scalable AI systems, improving LLM/agent reliability, and taking AI projects from prototype to production.<br><br>
+🌱 I’m currently learning<br>Advanced Agentic AI, LangGraph orchestration, RAG optimization, MLOps, and scalable backend architecture.<br><br>
+💬 Ask me about<br>Python, Machine Learning, Generative AI, LangGraph, RAG, FastAPI, SHAP, XGBoost, and building AI systems end-to-end.<br><br>
+⚡ Fun fact<br>I enjoy turning AI ideas into working products — from ML prediction systems to autonomous multi-agent platforms.
 
 
 ## 🌐 Socials:
