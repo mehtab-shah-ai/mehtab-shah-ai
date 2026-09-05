@@ -1,16 +1,18 @@
 <div align="center">
 
-# Mehtab Shah
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Mehtab%20Shah&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20GenAI%20%26%20Agentic%20Systems%20%7C%20Mumbai,%20India&descAlignY=58&descSize=18&animation=fadeIn"/>
 
-### AI Engineer building production-grade GenAI & Agentic AI systems
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=800&lines=Shipping+Multi-Agent+RAG+Systems+%F0%9F%A4%96;LangGraph+%7C+RAG+%7C+LLM+Observability;0%25+Hallucination+%7C+Production-Grade+GenAI;Final-Year+CS+Student+%7C+Open+to+Work+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Shipping+Multi-Agent+RAG+Systems;LangGraph+%7C+RAG+%7C+LLM+Observability;0%25+Hallucination+%7C+Production-Grade+GenAI;Final-Year+CS+Student+%7C+Mumbai%2C+India)](https://git.io/typing-svg)
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehtab-shah-ai)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehtab.tech24@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Live_Projects-2563EB?style=for-the-badge&logo=render&logoColor=white)](#featured-projects)
 
 </div>
+
+<br/>
 
 ---
 
