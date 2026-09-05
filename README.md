@@ -1,109 +1,118 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Mehtab%20Shah&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20GenAI%20%26%20Agentic%20Systems%20%7C%20Mumbai,%20India&descAlignY=58&descSize=18&animation=fadeIn"/>
+# MEHTAB SHAH
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=800&lines=Shipping+Multi-Agent+RAG+Systems+%F0%9F%A4%96;LangGraph+%7C+RAG+%7C+LLM+Observability;0%25+Hallucination+%7C+Production-Grade+GenAI;Final-Year+CS+Student+%7C+Open+to+Work+%F0%9F%9A%80)](https://git.io/typing-svg)
+**AI Engineer · Generative AI · Agentic AI · RAG**  
+Turning AI ideas into real products — from system design to production.
 
-<br/>
+<a href="https://www.linkedin.com/in/mehtab-shah-ai"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:mehtab.tech24@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://github.com/mehtab-shah-ai"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://creatorspy-ai.onrender.com/"><img src="https://img.shields.io/badge/Live%20Projects-2563EB?style=for-the-badge&logo=render&logoColor=white"></a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehtab-shah-ai)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehtab.tech24@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Live_Projects-2563EB?style=for-the-badge&logo=render&logoColor=white)](#featured-projects)
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=800&height=55&lines=Multi-Agent+AI+%7C+LangGraph+%7C+RAG;LLM+Observability+%7C+AI+Security;Python+%7C+FastAPI+%7C+Docker+%7C+AWS" alt="Typing introduction">
 
 </div>
 
-<br/>
+---
+
+## 🧠 What I Build
+
+| Agentic AI | GenAI & RAG | AI Engineering |
+|---|---|---|
+| Multi-agent workflows with LangGraph | Retrieval-Augmented Generation | FastAPI backends & REST APIs |
+| Tool-using AI agents | Vector search & embeddings | Dockerized, deployable systems |
+| Agent observability & red-teaming | LLM applications | Real-time WebSocket systems |
+| Evaluation, reliability & guardrails | Prompt engineering | End-to-end product delivery |
 
 ---
 
-### Currently
+## 🚀 Featured Work
 
-- 🔭 Building agentic AI systems with LangGraph, RAG, and multi-provider LLM routing
-- 🌱 Going deeper on retrieval-accuracy tuning, reranking, and MLOps (DVC, ZenML)
-- 🤝 Open to AI/ML Engineer roles — Mumbai, Hybrid, or Remote
+### [CreatorSpy AI](https://creatorspy-ai.onrender.com/)
+**AI-powered video intelligence for creators**
 
----
+Analyzes **50+ videos** to find the best-performing video, understand what made it work, and turn those findings into better hooks, video ideas, and ready-to-shoot scripts.
 
-### <a name="featured-projects"></a>🚀 Featured Projects
+`LangGraph` `YouTube Data API` `RAG` `FastAPI` `ChromaDB` `Groq` `Gemini` `Docker`
 
-**[CreatorSpy AI](https://creatorspy-ai.onrender.com/)** — AI-powered video intelligence platform
-Multi-agent RAG pipeline that analyzes 30+ creators' YouTube catalogs, retrieves the highest-performing outlier video, and turns unstructured data into market intelligence.
-`LangGraph` `RAG` `FastAPI` `ChromaDB` `Groq` `Gemini` `Docker`
+### [AgentOps](https://agentops-app.onrender.com/)
+**AI agent observability & security platform**
 
-**[AgentOps](https://agentops-app.onrender.com/)** — AI agent observability & security platform
-Real-time monitoring for production AI agents — catches hallucinations, cost overruns, and usage anomalies. Automated red-teaming across 4 attack suites.
-`LangGraph` `FastAPI` `React` `WebSockets` `Docker`
+Monitors AI agents in real time for hallucinations, cost overruns, and usage anomalies, with automated red-teaming across **4 attack suites**.
 
-**[DevPulse AI](https://devpulse-ai-agent.onrender.com/)** — autonomous code guardian
-4-agent pipeline that audits any GitHub repo for security risk in under 2 seconds. Findings are grounded in a deterministic AST + CWE/OWASP engine — 0% hallucination on structure extraction.
+`LangGraph` `FastAPI` `React` `WebSockets` `Docker` `GenAI`
+
+### [DevPulse AI](https://devpulse-ai-agent.onrender.com/)
+**AI-powered code security platform**
+
+A **4-agent LangGraph** pipeline that audits GitHub repositories in under **2 seconds**. Vulnerability findings are grounded in a deterministic **AST + CWE/OWASP** engine to avoid guesswork.
+
 `LangGraph` `RAG` `FastAPI` `JWT Auth` `SQLite`
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-**AI / GenAI / Agentic**
+### AI / GenAI / Agentic AI
 
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+<p>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white">
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white">
+<img src="https://img.shields.io/badge/Groq-F54E2E?style=for-the-badge&logo=groq&logoColor=white">
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
+</p>
 
-**ML / DL**
+### ML / DL
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,pandas" alt="ML stack">
+</p>
 
-**Backend & Data**
+### Backend / Data / Cloud
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**MLOps & Cloud**
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure_ML-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=python,fastapi,sqlite,mysql,docker,aws,git,github,githubactions,vscode" alt="Backend and cloud stack">
+</p>
 
 ---
 
-### 📊 GitHub Stats
-
-> Turn on **Settings → Profile → "Include private contributions on my profile"** so the numbers below reflect your real activity.
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mehtab-shah-ai&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehtab-shah-ai&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mehtab-shah-ai&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub stats">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehtab-shah-ai&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mehtab-shah-ai&count_private=true&theme=tokyonight&hide_border=true"/>
+<br><br>
 
-</div>
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=mehtab-shah-ai&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8)
+<img src="https://streak-stats.demolab.com?user=mehtab-shah-ai&theme=tokyonight&hide_border=true" alt="GitHub streak">
 
 </div>
 
 ---
 
+## 🏅 Certification
+
+**Oracle Cloud Infrastructure 2025 Certified**
+- Generative AI Professional
+- AI Foundations Associate
+
+---
+
+## 🎯 Open To
+
+**AI Engineer · GenAI Engineer · Agentic AI Engineer · Applied AI / ML Internships & Entry-Level Roles**
+
+Mumbai · Hybrid · Remote
+
+---
+
 <div align="center">
-
-🏅 **Oracle Cloud Infrastructure 2025 Certified** — Generative AI Professional & AI Foundations Associate
-
-![Profile Views](https://komarev.com/ghpvc/?username=mehtab-shah-ai&color=2563EB&style=for-the-badge&label=PROFILE+VIEWS)
-
+<img src="https://komarev.com/ghpvc/?username=mehtab-shah-ai&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" alt="Profile views">
 </div>
