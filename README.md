@@ -2,8 +2,8 @@
 
 # MEHTAB SHAH
 
-**AI Engineer · Generative AI · Agentic AI · RAG**  
-Turning AI ideas into real products — from system design to production.
+**AI/ML Engineer · Machine Learning · Deep Learning · GenAI · Agentic AI**  
+Turning data and AI ideas into production-ready systems.
 
 <a href="https://www.linkedin.com/in/mehtab-shah-ai"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:mehtab.tech24@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -12,7 +12,7 @@ Turning AI ideas into real products — from system design to production.
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=800&height=55&lines=Multi-Agent+AI+%7C+LangGraph+%7C+RAG;LLM+Observability+%7C+AI+Security;Python+%7C+FastAPI+%7C+Docker+%7C+AWS" alt="Typing introduction">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=19&duration=6000&pause=2200&color=2563EB&center=true&vCenter=true&width=850&height=55&lines=Machine+Learning+%7C+Deep+Learning+%7C+GenAI;Multi-Agent+AI+%7C+LangGraph+%7C+RAG;Python+%7C+FastAPI+%7C+Docker+%7C+AWS" alt="Typing introduction">
 
 </div>
 
@@ -20,12 +20,12 @@ Turning AI ideas into real products — from system design to production.
 
 ## 🧠 What I Build
 
-| Agentic AI | GenAI & RAG | AI Engineering |
+| Machine Learning | Generative & Agentic AI | AI Engineering |
 |---|---|---|
-| Multi-agent workflows with LangGraph | Retrieval-Augmented Generation | FastAPI backends & REST APIs |
-| Tool-using AI agents | Vector search & embeddings | Dockerized, deployable systems |
-| Agent observability & red-teaming | LLM applications | Real-time WebSocket systems |
-| Evaluation, reliability & guardrails | Prompt engineering | End-to-end product delivery |
+| Data collection & preprocessing | Multi-agent workflows | FastAPI & REST APIs |
+| Feature engineering & model training | RAG & vector search | Dockerized deployments |
+| Model evaluation & prediction | LLM applications & prompt engineering | Real-time WebSocket systems |
+| ML/DL workflows with Python | Agent observability & AI security | End-to-end product development |
 
 ---
 
@@ -56,7 +56,20 @@ A **4-agent LangGraph** pipeline that audits GitHub repositories in under **2 se
 
 ## 🛠️ Tech Stack
 
-### AI / GenAI / Agentic AI
+### Machine Learning / Deep Learning
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+<img src="https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge&logo=xgboost&logoColor=white">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+</p>
+
+### GenAI / Agentic AI
 
 <p>
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">
@@ -66,12 +79,6 @@ A **4-agent LangGraph** pipeline that audits GitHub repositories in under **2 se
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white">
 <img src="https://img.shields.io/badge/Groq-F54E2E?style=for-the-badge&logo=groq&logoColor=white">
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
-</p>
-
-### ML / DL
-
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,pandas" alt="ML stack">
 </p>
 
 ### Backend / Data / Cloud
@@ -107,7 +114,7 @@ A **4-agent LangGraph** pipeline that audits GitHub repositories in under **2 se
 
 ## 🎯 Open To
 
-**AI Engineer · GenAI Engineer · Agentic AI Engineer · Applied AI / ML Internships & Entry-Level Roles**
+**AI/ML Engineer · ML Engineer · GenAI Engineer · Applied AI · AI/ML Internships & Entry-Level Roles**
 
 Mumbai · Hybrid · Remote
 
